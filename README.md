@@ -1,8 +1,11 @@
 # IOT_TEMPERATURE
 
 Project type: Mini embedded project (Temperature detector / Fever alert)
-Authors: S. Joshuva Srikar Varma (URK24CS9017) + Team
+
+Authors: S. Joshuva Srikar Varma (URK24CS9017) 
+
 Course: 23CS2022 — Internet of Things
+
 Date: October 2025
 
 Project summary
